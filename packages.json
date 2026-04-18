@@ -1,4 +1,5 @@
 [
   { "package": "snakeplot", "url": "https://github.com/mohsaqr/snakeplot" },
-  { "package": "Nestimate", "url": "https://github.com/mohsaqr/Nestimate" }
+  { "package": "Nestimate", "url": "https://github.com/mohsaqr/Nestimate" },
+  { "package": "bibnets",   "url": "https://github.com/mohsaqr/bibnets" }
 ]
