@@ -14,5 +14,9 @@
   {
     "package": "cooccure",
     "url": "https://github.com/mohsaqr/cooccure"
+  },
+  {
+    "package": "lagseq",
+    "url": "https://github.com/mohsaqr/lagseq"
   }
 ]
