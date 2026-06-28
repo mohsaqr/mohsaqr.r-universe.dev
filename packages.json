@@ -18,5 +18,9 @@
   {
     "package": "lagseq",
     "url": "https://github.com/mohsaqr/lagseq"
+  },
+  {
+    "package": "psychnets",
+    "url": "https://github.com/mohsaqr/psychnet"
   }
 ]
