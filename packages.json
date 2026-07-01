@@ -26,9 +26,5 @@
   {
     "package": "idiographic",
     "url": "https://github.com/mohsaqr/idiographic"
-  },
-  {
-    "package": "lagdynamics",
-    "url": "https://github.com/mohsaqr/lagdynamics"
   }
 ]
