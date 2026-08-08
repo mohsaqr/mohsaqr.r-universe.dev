@@ -26,5 +26,9 @@
   {
     "package": "idiographic",
     "url": "https://github.com/mohsaqr/idiographic"
+  },
+  {
+    "package": "tsn",
+    "url": "https://github.com/mohsaqr/tsn"
   }
 ]
