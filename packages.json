@@ -34,5 +34,25 @@
   {
     "package": "carmar",
     "url": "https://github.com/mohsaqr/CarmaR-releases"
+  },
+  {
+    "package": "transitiontrees",
+    "url": "https://github.com/mohsaqr/transitiontrees"
+  },
+  {
+    "package": "Saqrmisc",
+    "url": "https://github.com/mohsaqr/Saqrmisc"
+  },
+  {
+    "package": "Saqrlab",
+    "url": "https://github.com/mohsaqr/Saqrlab"
+  },
+  {
+    "package": "VaSSTra",
+    "url": "https://github.com/sonsoleslp/vasstra"
+  },
+  {
+    "package": "sbert",
+    "url": "https://github.com/sonsoleslp/sbert"
   }
 ]
