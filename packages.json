@@ -48,6 +48,10 @@
     "url": "https://github.com/mohsaqr/Saqrlab"
   },
   {
+    "package": "Dynet",
+    "url": "https://github.com/mohsaqr/Dynet"
+  },
+  {
     "package": "VaSSTra",
     "url": "https://github.com/sonsoleslp/vasstra"
   },
