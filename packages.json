@@ -21,7 +21,7 @@
   },
   {
     "package": "psychnets",
-    "url": "https://github.com/mohsaqr/psychnet"
+    "url": "https://github.com/mohsaqr/psychnets"
   },
   {
     "package": "idiographic",
@@ -58,5 +58,37 @@
   {
     "package": "sbert",
     "url": "https://github.com/sonsoleslp/sbert"
+  },
+  {
+    "package": "cograph",
+    "url": "https://github.com/mohsaqr/cograph"
+  },
+  {
+    "package": "htna",
+    "url": "https://github.com/sonsoleslp/htna"
+  },
+  {
+    "package": "codyna",
+    "url": "https://github.com/santikka/codyna"
+  },
+  {
+    "package": "texthypergraph",
+    "url": "https://github.com/mohsaqr/texthypergraph"
+  },
+  {
+    "package": "simulab",
+    "url": "https://github.com/mohsaqr/simulab"
+  },
+  {
+    "package": "dynarules",
+    "url": "https://github.com/mohsaqr/dynarules"
+  },
+  {
+    "package": "honets",
+    "url": "https://github.com/mohsaqr/honets"
+  },
+  {
+    "package": "hypernets",
+    "url": "https://github.com/mohsaqr/hypernets"
   }
 ]
