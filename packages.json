@@ -72,16 +72,8 @@
     "url": "https://github.com/santikka/codyna"
   },
   {
-    "package": "texthypergraph",
-    "url": "https://github.com/mohsaqr/texthypergraph"
-  },
-  {
     "package": "simulab",
     "url": "https://github.com/mohsaqr/simulab"
-  },
-  {
-    "package": "dynarules",
-    "url": "https://github.com/mohsaqr/dynarules"
   },
   {
     "package": "hypernets",
