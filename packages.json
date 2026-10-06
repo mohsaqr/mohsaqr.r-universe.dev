@@ -80,6 +80,10 @@
     "url": "https://github.com/mohsaqr/hypernets"
   },
   {
+    "package": "hypergraphs",
+    "url": "https://github.com/mohsaqr/hypergraphs"
+  },
+  {
     "package": "latents",
     "url": "https://github.com/mohsaqr/latents"
   }
