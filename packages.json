@@ -76,10 +76,6 @@
     "url": "https://github.com/mohsaqr/simulab"
   },
   {
-    "package": "hypernets",
-    "url": "https://github.com/mohsaqr/hypernets"
-  },
-  {
     "package": "hypergraphs",
     "url": "https://github.com/mohsaqr/hypergraphs"
   },
